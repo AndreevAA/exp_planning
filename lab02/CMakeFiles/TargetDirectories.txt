@@ -1,0 +1,4 @@
+/Users/andreevalexander/bmstu_8sem/exp_planning/lab02/CMakeFiles/lab02.dir
+/Users/andreevalexander/bmstu_8sem/exp_planning/lab02/CMakeFiles/edit_cache.dir
+/Users/andreevalexander/bmstu_8sem/exp_planning/lab02/CMakeFiles/rebuild_cache.dir
+/Users/andreevalexander/bmstu_8sem/exp_planning/lab02/CMakeFiles/lab02_autogen.dir
