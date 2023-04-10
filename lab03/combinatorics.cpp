@@ -1,6 +1,11 @@
 #include "combinatorics.hpp"
 
 #include <cassert>
+#include <vector>
+#include <iosfwd>
+#include <algorithm>
+#include <iostream>
+#include <string>
 
 
 std::vector<std::vector<size_t>> GenerateAllCombinations(size_t n, size_t k) {
